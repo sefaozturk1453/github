@@ -21,7 +21,7 @@ Açılan bu sayfada issue hakkında yazılanları görebilir, ve siz de yeni bir
 Issues sekmesinde "New Issue" butonuna basılır.
 
 ![5](https://user-images.githubusercontent.com/91962945/136783191-fcd157f2-8581-4fe4-a4cd-31124bc867c1.png)
-Başlık ve açıklama kısımları doldurulur ve "Submit new issue" butonuna basılır.
+Başlık ve açıklama kısımları doldurulur.
 
 ### Sorumlu kişi atama
 ![6](https://user-images.githubusercontent.com/91962945/136783386-9e8d7880-da3b-405c-864a-2ae84f4fe3d6.png)  
@@ -32,3 +32,6 @@ Sağ tarafta bulunan "Assignees" başlığının altındaki dişli ikonuna bası
 ![7](https://user-images.githubusercontent.com/91962945/136783407-68da6dd6-bcec-45ed-aa7d-d700efb7b362.png)  
 
 Yine sağ tarafta bulunan "Labels" başlığının altındaki dişli ikonuna basılır. Ekranda beliren etiketlerden açtığınız issue'ya uygun olanlara tıklanır. 
+
+### Kaydetme
+Bütün alanları doldurduktan sonra "Submit new issue" butonuna basıldığı zaman issue kaydedilmiş olur.
