@@ -2,9 +2,12 @@
 
 
 ## Issues
-![1](https://user-images.githubusercontent.com/91962945/136782802-2d2ed55b-8129-4900-a265-9f8b909367a2.png)  
 
 Bu kısımda programın spesifik sorunları veya geliştirilmesi gereken alanları takip etmek için "issue" denilen konular açılabilir. Issue'lara sorumlu kişi ataması yapılabilir, farklı etiketlerle alan ayrımı yapılabilir. Issue'lara katılımcılar yorum yapabilir.  
+
+![1](https://user-images.githubusercontent.com/91962945/136782802-2d2ed55b-8129-4900-a265-9f8b909367a2.png)  
+
+Issue'lara ulaşmak için ilk önce issues sekmesine tıklayın.
 
 ![2](https://user-images.githubusercontent.com/91962945/136782852-7e7eec40-2dcd-4553-a802-77dad236b492.png)  
 
